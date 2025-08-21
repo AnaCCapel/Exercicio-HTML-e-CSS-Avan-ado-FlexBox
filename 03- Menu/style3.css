@@ -1,0 +1,91 @@
+:root {
+    --color: #5BC241;
+    --text: #FFFFFF;
+    --font: "Public Sans", sans-serif;
+}
+
+h1 {
+    font-size: 20px;
+    font-weight: 800;
+}
+
+.menu {
+    width: 100vw;
+    height: 100px;
+    font-family: var(--font);
+    font-size: 15px;
+    font-weight: 400;
+}
+
+.menu,
+.logo,
+.links {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.nav,
+.logo {
+    margin: 0 40px;
+}
+
+.bnt {
+    margin-left: 10px;
+    padding: 10px 20px;
+    color: var(--text);
+    border: none;
+    border-radius: 10px;
+    font-weight: 300;
+    background-color: var(--color);
+}
+
+.opcoes {
+    padding: 10px;
+}
+
+.opcoes:hover {
+    color: var(--text);
+    background-color: var(--color);
+}
+
+@media (max-width: 768px) {
+
+    h1,
+    .opcoes {
+        font-size: 40px;
+    }
+
+    .menu {
+        height: 100VH;
+    }
+
+    .logo {
+        margin-bottom: 80px;
+    }
+
+    .menu,
+    .links {
+        flex-direction: column;
+        justify-content: center;
+    }
+
+    .nav,
+    .opcoes {
+        
+       display: flex;
+       justify-content: space-evenly;
+    }
+
+    li,
+    .opcoes {
+        padding: 10px;
+        text-align: center;
+    }
+
+    .bnt {
+        padding: 15px 40px;
+        font-size: 18px;
+        text-align: center;
+    }
+}

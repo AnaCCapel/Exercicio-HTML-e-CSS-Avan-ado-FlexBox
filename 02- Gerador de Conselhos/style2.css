@@ -1,0 +1,64 @@
+:root {
+    --background-body: hsl(218, 23%, 16%);
+    --background-cartao: hsl(217, 19%, 24%);
+    --background-botao: hsl(150, 100%, 66%);
+    --text-color: hsl(193, 38%, 86%);
+    --font: "Manrope", sans-serif;
+}
+
+body {
+    width: 100vw;
+    height: 100vh;
+    font-size: 14px;
+    color: var(--text-color);
+    background-color: var(--background-body);
+}
+
+h3 {
+    color: var(--background-botao);
+}
+
+main {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.cartao {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    flex-direction: column;
+    width: 700px;
+    height: 300px;
+    padding: 28px;
+    border-radius: 8px;
+    background-color: var(--background-cartao);
+}
+
+.cartao p {
+    margin-top: 13px;
+    text-align: center;
+    font-size: 38px;
+    font-weight: 800;
+}
+
+.divisao {
+    margin: 32px 0;
+}
+
+.bnt {
+    padding: 16px;
+    border: none;
+    border-radius: 50%;
+    background-color: var(--background-botao);
+}
+
+@media (max-width: 768px) {
+    .cartao {
+        width: 400px;
+        height: 400px;
+    }
+}
