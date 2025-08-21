@@ -1,15 +1,14 @@
-[![Status](https://img.shields.io/badge/Status-Concluído-8A2BE2?style=flat-square)]()  
-[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)]()  
-[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)]()  
-[![Made with Love](https://img.shields.io/badge/Made%20with-💜-ff69b4?style=flat-square)]()  
+[![Status](https://img.shields.io/badge/Status-Concluído-8A2BE2?style=flat-square)]() [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)]() [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)]()  
+
 
 Lista com 4 projetos:
 
 ## 🛠️ Tecnologias Utilizadas
 
 - 🏗 **HTML5** → Estrutura da página;  
-- 🎨 **CSS3** → Estilização e responsividade: - Flexbox → Organização dos elementos;
-                                              - Media Queries → Responsividade, layout adaptado para diferentes telas.
+- 🎨 **CSS3** → Estilização e responsividade:
+- Flexbox → Organização dos elementos;
+- Media Queries → Responsividade, layout adaptado para diferentes telas.
    
 
 # 1º Projeto - 🪪 Cartão de Perfil:
@@ -51,4 +50,4 @@ Lista com 4 projetos:
 - Criar um layout responsivo e agradável com **HTML + CSS**;
 - Praticar **responsividade com Flexbox e Media Queries**; 
 
-Feito com 💜 por Ana Carolina Capel
+[![Made with Love](https://img.shields.io/badge/Made%20with-💜-AA77FF?style=flat-square)]()
