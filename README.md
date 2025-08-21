@@ -1,4 +1,4 @@
-[![Status](https://img.shields.io/badge/Status-Concluído-8A2BE2?style=flat-square)]() [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)]() [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)]()  
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)]() [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)]()  
 
 
 Lista com 4 projetos:
@@ -35,7 +35,8 @@ Lista com 4 projetos:
 - Ela se adapta a diferentes tamanhos de tela, exibindo um menu horizontal em desktops e um menu lateral em dispositivos móveis.  
 
 ## 🖼️ Demonstração:
-<img width="577" height="433" alt="Menu" src="https://github.com/user-attachments/assets/09ce21cc-22fe-4ac5-a7ec-6fbf535d65e6" />
+<img width="577" height="433" alt="Menu" src="https://github.com/user-attachments/assets/ea2054dd-d7f6-4af7-ac79-a2fd01bff632" />
+
 
 # 4º Projeto - 🎨 Lista de Imagens:
 
@@ -43,7 +44,8 @@ Lista com 4 projetos:
 - O layout se adapta perfeitamente para desktop e mobile, exibindo os cards de forma organizada.
 
 ## 🖼️ Demonstração
-<img width="577" height="433" alt="Lista" src="https://github.com/user-attachments/assets/9b34ce82-6853-44fc-9a25-c1cc1ce7b19c" />
+<img width="577" height="433" alt="Fila" src="https://github.com/user-attachments/assets/e7efa263-93bf-40d4-b70b-41f522fd40b1" />
+
 
 ## 🎯 Objetivos:
 
