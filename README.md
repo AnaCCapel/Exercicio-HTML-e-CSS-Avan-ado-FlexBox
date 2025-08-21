@@ -11,7 +11,7 @@ Lista com 4 projetos:
 - Media Queries → Responsividade, layout adaptado para diferentes telas.
    
 
-# 1º Projeto - 🪪 Cartão de Perfil:
+# 1º Projeto - 🗒️ Cartão de Perfil:
 
 - Projeto com foco na criação de um **cartão de perfil minimalista**.  
 ✔️ Foto de perfil  
